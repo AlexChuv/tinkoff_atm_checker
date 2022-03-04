@@ -118,5 +118,5 @@ while true
     send_admin_message(e)
   end
 
-  sleep 10
+  sleep 30
 end
